@@ -3,3 +3,5 @@
 Heitor 1º Coordenador
 
 Matheus Correa 2° Coordenador
+
+Gabriel Pereira  3° Coordenador
